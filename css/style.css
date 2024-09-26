@@ -615,7 +615,7 @@ section.tab-section {
 .pro-icon a.view {
     background-color: #fff;
     border-radius: 5px;
-    color: #F3868C;
+    color: #F3868C !important;
     opacity: 0;
     transition: all 0.5s ease 0s;
     position: relative;
