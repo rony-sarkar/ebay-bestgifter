@@ -606,6 +606,12 @@ section.tab-section {
     width: 100%;
 }
 
+.pro-icon a,
+.pro-icon a:focus, 
+.pro-icon a:hover{
+        color: #fff !important;
+}
+
 .pro-icon a.view {
     background-color: #fff;
     border-radius: 5px;
@@ -617,6 +623,12 @@ section.tab-section {
     display: inline-block;
     margin-top: 10px;
     font-weight: bold;
+}
+
+.pro-icon a.view,
+.pro-icon a.view:focus, 
+.pro-icon a.view:hove {
+        color: #F3868C !important,
 }
 
 .pro-icon h4 {
